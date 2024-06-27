@@ -47,3 +47,11 @@ Exibe as informações detalhadas de um commit específico, incluindo as altera�
 ### git stash apply `indice`
 
 ### git stash clear
+
+### git restore `nome_do_arquivo`
+
+### git restore --staged `nome_do_arquivo`
+
+### git restore --source=`id_commit` `nome_do_arquivo`
+
+### git tag `nome_da_tag`
