@@ -34,4 +34,16 @@ Exibe as informações detalhadas de um commit específico, incluindo as altera�
 
 ### git switch -c `nome_da_branch`
 
+### git merge `nome_da_branch`
 
+### git rebase `nome_da_branch`
+
+### git stash push -m `descricao_do_stash`
+
+### git stash pop
+
+### git stash list
+
+### git stash apply `indice`
+
+### git stash clear
