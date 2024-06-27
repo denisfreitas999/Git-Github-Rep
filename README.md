@@ -54,4 +54,9 @@ Exibe as informações detalhadas de um commit específico, incluindo as altera�
 
 ### git restore --source=`id_commit` `nome_do_arquivo`
 
-### git tag `nome_da_tag`
+### git tag `nome_da_tag` `id_commit`
+
+### git push origin --tags
+
+### git tag -a `nome_da_tag` -m `mensagem da tag`
+
